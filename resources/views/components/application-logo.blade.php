@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/logofooter.png') }}" alt="">
